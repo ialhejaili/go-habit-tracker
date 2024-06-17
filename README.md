@@ -6,7 +6,7 @@ delete, and mark habits as completed for the day. The app features a "Today's Mu
 incomplete habits for the current day.
 
 ### Set Environment Variables
-Before running the application, you need to create a .env file in the root directory of the project. This file should contain your database connection strings for both the production and test environments.
+Before running the application, you need to create a `.env` file in the root directory of the project. This file should contain your database connection strings for both the production and test environments.
 
 1- Create a .env file in the root directory of your project:
 ```sh
